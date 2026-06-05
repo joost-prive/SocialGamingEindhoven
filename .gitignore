@@ -10,6 +10,9 @@
 /.next/
 /out/
 
+# auto-generated optimized images (originals live in public/img-source/)
+/public/img/
+
 # production
 /build
 

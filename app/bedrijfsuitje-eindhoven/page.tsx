@@ -85,7 +85,7 @@ export default function BedrijfsuitjeEindhoven() {
               </p>
             </div>
             <img
-              src="/img/socialgame2.png"
+              src="/img/socialgame2.webp"
               alt="Twee teams spelen tegen elkaar in een blokkenstapel-spel met scorebord bij ClashRooms"
               className="w-full h-96 object-cover rounded-lg shadow-md"
               loading="lazy"

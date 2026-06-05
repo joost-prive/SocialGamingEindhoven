@@ -224,7 +224,7 @@ export default function GroepsactiviteitenEindhoven() {
               </p>
             </div>
             <img
-              src="/img/socialgame1.png"
+              src="/img/socialgame1.webp"
               alt="Team aan het werk in een Team Social Games kamer bij ClashRooms"
               className="w-full h-96 object-cover rounded-lg shadow-md"
               loading="lazy"

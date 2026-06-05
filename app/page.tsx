@@ -51,7 +51,7 @@ export default function Home() {
               </Link>
             </div>
             <img
-              src="/img/clashrooms.jpg"
+              src="/img/clashrooms.webp"
               alt="Groep mensen viert overwinning met trofee bij ClashRooms in Eindhoven"
               className="w-full h-96 object-cover rounded-lg shadow-md"
               loading="lazy"

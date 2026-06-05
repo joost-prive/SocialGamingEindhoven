@@ -77,7 +77,7 @@ export default function WatIsSocialGaming() {
               </p>
             </div>
             <img
-              src="/img/cupstacking.png"
+              src="/img/cupstacking.webp"
               alt="Team viert juichend een cup stacking uitdaging bij ClashRooms in Eindhoven"
               className="w-full h-96 object-cover rounded-lg shadow-md"
               loading="lazy"
