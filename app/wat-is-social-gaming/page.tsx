@@ -57,23 +57,31 @@ export default function WatIsSocialGaming() {
           <h2 className="font-heading text-3xl md:text-4xl font-bold text-black mb-8">
             De volledige uitleg
           </h2>
-          <div className="max-w-3xl space-y-6 text-gray-700 text-lg leading-relaxed">
-            <p>
-              Social gaming is gaming in zijn puurste vorm: samen, in hetzelfde moment, met
-              echte interactie. Je zit niet op Discord terwijl je thuis achter je PC zit. Je
-              zit in dezelfde ruimte, je voelt de adrenaline van je medespelers, je hoort de
-              reacties, je viert samen.
-            </p>
-            <p>
-              Het gaat om competitie, samenwerking, en vooral om het moment. Je bent niet bezig
-              met een 40-urige campagne. Je speelt snelle, intense sessies waar het om gaat hoe
-              je als groep functioneert onder druk.
-            </p>
-            <p>
-              Denk aan je vrienden, je collega\'s of je familie aan het scherm. Iedereen voelt
-              de spanning, iedereen reageert tegelijk. Dat is social gaming. Het is veel meer
-              dan alleen spelen, het is een gezamenlijke ervaring.
-            </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div className="space-y-6 text-gray-700 text-lg leading-relaxed">
+              <p>
+                Social gaming is gaming in zijn puurste vorm: samen, in hetzelfde moment, met
+                echte interactie. Je zit niet op Discord terwijl je thuis achter je PC zit. Je
+                zit in dezelfde ruimte, je voelt de adrenaline van je medespelers, je hoort de
+                reacties, je viert samen.
+              </p>
+              <p>
+                Het gaat om competitie, samenwerking, en vooral om het moment. Je bent niet bezig
+                met een 40-urige campagne. Je speelt snelle, intense sessies waar het om gaat hoe
+                je als groep functioneert onder druk.
+              </p>
+              <p>
+                Denk aan je vrienden, je collega&apos;s of je familie samen aan het spelen.
+                Iedereen voelt de spanning, iedereen reageert tegelijk. Dat is social gaming.
+                Het is veel meer dan alleen spelen, het is een gezamenlijke ervaring.
+              </p>
+            </div>
+            <img
+              src="/img/cupstacking.png"
+              alt="Team viert juichend een cup stacking uitdaging bij ClashRooms in Eindhoven"
+              className="w-full h-96 object-cover rounded-lg shadow-md"
+              loading="lazy"
+            />
           </div>
         </div>
       </section>

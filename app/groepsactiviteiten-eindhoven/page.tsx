@@ -223,9 +223,12 @@ export default function GroepsactiviteitenEindhoven() {
                 .
               </p>
             </div>
-            <div className="bg-gradient-to-br from-accent to-accent-dark rounded-lg h-96 flex items-center justify-center text-white font-heading text-2xl">
-              ClashRooms Setup
-            </div>
+            <img
+              src="/img/socialgame1.png"
+              alt="Team aan het werk in een Team Social Games kamer bij ClashRooms"
+              className="w-full h-96 object-cover rounded-lg shadow-md"
+              loading="lazy"
+            />
           </div>
         </div>
       </section>

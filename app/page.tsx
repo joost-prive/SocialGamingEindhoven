@@ -50,9 +50,12 @@ export default function Home() {
                 Lees meer over social gaming →
               </Link>
             </div>
-            <div className="bg-gradient-to-br from-accent to-accent-dark rounded-lg h-96 flex items-center justify-center text-white font-heading text-2xl">
-              Social Gaming Experience
-            </div>
+            <img
+              src="/img/clashrooms.jpg"
+              alt="Groep mensen viert overwinning met trofee bij ClashRooms in Eindhoven"
+              className="w-full h-96 object-cover rounded-lg shadow-md"
+              loading="lazy"
+            />
           </div>
         </div>
       </section>

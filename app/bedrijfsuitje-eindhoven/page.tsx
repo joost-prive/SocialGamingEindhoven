@@ -66,21 +66,30 @@ export default function BedrijfsuitjeEindhoven() {
           <h2 className="font-heading text-3xl md:text-4xl font-bold text-black mb-8">
             Waarom social gaming het beste team building is
           </h2>
-          <div className="max-w-3xl space-y-6 text-gray-700 text-lg leading-relaxed">
-            <p>
-              Bedrijfsuitjes zijn soms saai. Je gaat bowlen en iedereen staat veel te wachten. Je
-              gaat naar een escape room, maar alleen de slimme mensen voelen zich nuttig. Of je
-              gaat naar een teambuilding-coach die je in vreemde vertrouwensoefeningen zet.
-            </p>
-            <p>
-              Social gaming is anders. Iedereen is meteen bezig, iedereen speelt echt mee, en je
-              leert je collega\'s kénnen. Hoe reageert je teamlead onder druk? Wie helpt wie? Wie
-              motiveert? Wie blijft rustig? Dat gebeurt allemaal vanzelf.
-            </p>
-            <p>
-              En vooral: het voelt niet als "teambuilding". Het voelt als plezier. Je bent op je
-              gemak zonder dat je gedwongen wordt veel over jezelf te praten.
-            </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div className="space-y-6 text-gray-700 text-lg leading-relaxed">
+              <p>
+                Bedrijfsuitjes zijn soms saai. Je gaat bowlen en iedereen staat veel te wachten.
+                Je gaat naar een escape room, maar alleen de slimme mensen voelen zich nuttig.
+                Of je gaat naar een teambuilding-coach die je in vreemde vertrouwensoefeningen
+                zet.
+              </p>
+              <p>
+                Social gaming is anders. Iedereen is meteen bezig, iedereen speelt echt mee, en
+                je leert je collega&apos;s kénnen. Hoe reageert je teamlead onder druk? Wie helpt
+                wie? Wie motiveert? Wie blijft rustig? Dat gebeurt allemaal vanzelf.
+              </p>
+              <p>
+                En vooral: het voelt niet als "teambuilding". Het voelt als plezier. Je bent op
+                je gemak zonder dat je gedwongen wordt veel over jezelf te praten.
+              </p>
+            </div>
+            <img
+              src="/img/socialgame2.png"
+              alt="Twee teams spelen tegen elkaar in een blokkenstapel-spel met scorebord bij ClashRooms"
+              className="w-full h-96 object-cover rounded-lg shadow-md"
+              loading="lazy"
+            />
           </div>
         </div>
       </section>
