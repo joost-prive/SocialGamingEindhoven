@@ -1,7 +1,10 @@
 import type { Metadata } from 'next';
+import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+
+const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID;
 
 export const metadata: Metadata = {
   title: 'Social Gaming Eindhoven | ClashRooms',
@@ -31,6 +34,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
+      {GTM_ID && <GoogleTagManager gtmId={GTM_ID} />}
       <body>
         <Navbar />
         <main>{children}</main>
