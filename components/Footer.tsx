@@ -10,7 +10,7 @@ export default function Footer() {
               Social Gaming Eindhoven
             </h3>
             <p className="text-sm">
-              Het gids voor social gaming in Eindhoven. Samen spelen, samen beleven.
+              De gids voor social gaming in Eindhoven. Samen spelen, samen beleven.
             </p>
           </div>
 
@@ -103,7 +103,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm">
-            <p>&copy; 2025 Social Gaming Eindhoven. Powered by ClashRooms.</p>
+            <p>&copy; 2026 Social Gaming Eindhoven. Powered by ClashRooms.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a
                 href="/public/sitemap.xml"

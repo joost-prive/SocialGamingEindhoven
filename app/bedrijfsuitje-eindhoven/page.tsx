@@ -16,40 +16,40 @@ export default function BedrijfsuitjeEindhoven() {
     {
       question: 'Waarom is social gaming beter voor team building dan andere activiteiten?',
       answer:
-        'Omdat het real-time samenwerk en communicatie vereist. In andere activiteiten kunnen collega\'s veel stilstaan en wachten — hier speelt iedereen écht mee. Je ziet hoe collega\'s samenwerken onder druk, wie leidt, wie supportet. Dat is echte team-kennis.',
+        'Omdat het real-time samenwerking en communicatie vereist. Bij andere activiteiten kunnen collega\'s veel stilstaan en wachten. Hier speelt iedereen écht mee. Je ziet hoe collega\'s samenwerken onder druk, wie leidt, wie ondersteunt. Dat is echte teamkennis.',
     },
     {
       question: 'Hoe groot kan onze groep zijn?',
       answer:
-        'Van 4 tot 20+ personen geen probleem. Voor grotere teams kunnen we je helpen met meerdere sessions tegelijk, zodat iedereen aan bod komt.',
+        'Van 4 tot 20+ personen is geen probleem. Voor grotere teams kunnen we je helpen met meerdere sessies tegelijk, zodat iedereen aan bod komt.',
     },
     {
-      question: 'Is dit geschikt voor onze bedrijf?',
+      question: 'Is dit geschikt voor ons bedrijf?',
       answer:
-        'Waarschijnlijk ja! We zien bedrijven uit tech, marketing, finance, HR, sales — overal waar teamwork belangrijk is. Zolang je team kan en wil spelen, werkt het.',
+        'Waarschijnlijk wel! We zien bedrijven uit tech, marketing, finance, HR en sales: overal waar teamwork belangrijk is. Zolang je team kan en wil spelen, werkt het.',
     },
     {
       question: 'Hoe organiseren we dit praktisch?',
       answer:
-        'Je geeft ons je groepgrootte en voorkeursdata via clashrooms.nl/boeken. Wij zorgen voor de rest. Je betaalt per persoon, het is duidelijk, geen gedoe.',
+        'Je geeft je groepsgrootte en voorkeursdatum door via clashrooms.nl/boeken. Wij zorgen voor de rest. Je betaalt per persoon, het is duidelijk en geen gedoe.',
     },
     {
       question: 'Kunnen we dit ook als remote team doen?',
       answer:
-        'Social gaming werkt het best in-person (je speelt echt samen). Voor remote teams is het minder geschikt, omdat je fysiek bij dezelfde plek moet zijn. Maar voor teams die semiregular bij elkaar komen, perfect.',
+        'Social gaming werkt het best fysiek samen (je speelt echt samen in dezelfde ruimte). Voor remote teams is het minder geschikt, omdat je op dezelfde plek moet zijn. Voor teams die regelmatig bij elkaar komen is het perfect.',
     },
     {
-      question: 'Kan dit later op de avond, na het werk?',
+      question: 'Kan dit ook later op de avond, na het werk?',
       answer:
-        'Absoluut! Veel bedrijven boeken net na werktijd. Dus je bent 17:00 uur klaar met werk, 17:30 ben je aan het spelen. Super!',
+        'Absoluut! Veel bedrijven boeken net na werktijd. Je bent om 17:00 klaar met werk en om 17:30 al aan het spelen. Super handig!',
     },
   ];
 
-  // Select relevant testimonials for team building
+  // Selecteer reviews die het beste passen bij teams / bedrijfsuitjes
   const teamBuildingTestimonials = [
-    testimonials[1], // Lisa - HR Manager
-    testimonials[3], // Jeroen - Team Lead
-    testimonials[4], // Emma - showing it works for groups
+    testimonials[2], // Marlene: "Superleuke bedrijfsactiviteit"
+    testimonials[4], // Vera: "Super leuk teamuitje"
+    testimonials[0], // Maikel: "Diversiteit aan spelvormen"
   ];
 
   return (
@@ -68,18 +68,18 @@ export default function BedrijfsuitjeEindhoven() {
           </h2>
           <div className="max-w-3xl space-y-6 text-gray-700 text-lg leading-relaxed">
             <p>
-              Bedrijfsuitjes zijn soms saai. Je gaat bowlen, iedereen staat veel te wachten. Je
-              gaat naar een escape room, maar alleen de slimme mensen voelen zich nuttig. Je gaat
-              naar een team-building coach die je in vreemde vertrouwensoefeningen zet.
+              Bedrijfsuitjes zijn soms saai. Je gaat bowlen en iedereen staat veel te wachten. Je
+              gaat naar een escape room, maar alleen de slimme mensen voelen zich nuttig. Of je
+              gaat naar een teambuilding-coach die je in vreemde vertrouwensoefeningen zet.
             </p>
             <p>
               Social gaming is anders. Iedereen is meteen bezig, iedereen speelt echt mee, en je
-              leert je collega's kénnen. Hoe reageert je teamlead onder druk? Wie helpt wie? Wie
+              leert je collega\'s kénnen. Hoe reageert je teamlead onder druk? Wie helpt wie? Wie
               motiveert? Wie blijft rustig? Dat gebeurt allemaal vanzelf.
             </p>
             <p>
-              En vooral: het voelt niet als "team building" — het voelt als fun. Je bent thuis
-              zonder dat je gedwongen bent veel over jezelf te praten.
+              En vooral: het voelt niet als "teambuilding". Het voelt als plezier. Je bent op je
+              gemak zonder dat je gedwongen wordt veel over jezelf te praten.
             </p>
           </div>
         </div>
@@ -95,27 +95,27 @@ export default function BedrijfsuitjeEindhoven() {
             {[
               {
                 title: 'Echte samenwerking',
-                desc: 'Games vereisen real-time communicatie en teamwork. Je ziet hoe je collega\'s samenwerken — dat is puur.',
+                desc: 'Games vereisen real-time communicatie en teamwork. Je ziet hoe je collega\'s samenwerken, en dat is puur.',
               },
               {
                 title: 'Energieverhoging',
-                desc: 'Niet zo\'n slaapverwekkend middagje. Dit is energiek, adrenaline, gelach, spanning. Iedereen is klaar.',
+                desc: 'Geen slaapverwekkend middagje. Dit is energiek, met adrenaline, gelach en spanning. Iedereen doet mee.',
               },
               {
                 title: 'Veilige competitie',
-                desc: 'Competitie zonder gevolgen. Je wint of je verliest, maar het is gewoon een spel. Leuk competitief gevoel.',
+                desc: 'Competitie zonder gevolgen. Je wint of je verliest, maar het is gewoon een spel. Lekker competitief gevoel.',
               },
               {
                 title: 'Ontspanning',
-                desc: 'Niet iedereen hoeft veel te praten of diep in te gaan. Je speelt, je werkt samen, je relaxed. Simpel.',
+                desc: 'Niet iedereen hoeft veel te praten of zich bloot te geven. Je speelt, je werkt samen, je ontspant. Simpel.',
               },
               {
                 title: 'Inclusief',
-                desc: 'Of je gamer bent of niet — je speelt mee. Geen buitenstaanders. Iedereen is even waardevol in het spel.',
+                desc: 'Of je nou gamer bent of niet, iedereen speelt mee. Geen buitenstaanders. Iedereen is even waardevol in het spel.',
               },
               {
                 title: 'Betaalbaar',
-                desc: 'Per persoon, duidelijke prijs, goed voor je geld. Veel goedkoper dan andere team building.',
+                desc: 'Per persoon, duidelijke prijs, goed voor je geld. Een stuk goedkoper dan veel andere teambuilding.',
               },
             ].map((item, idx) => (
               <div key={idx} className="bg-white rounded-lg p-8 shadow-sm">
@@ -159,22 +159,22 @@ export default function BedrijfsuitjeEindhoven() {
               {
                 step: '1',
                 title: 'Selecteer je datum',
-                desc: 'Kijk beschikbare slots in op clashrooms.nl/boeken',
+                desc: 'Bekijk de beschikbare tijdslots op clashrooms.nl/boeken.',
               },
               {
                 step: '2',
-                title: 'Zeg groepgrootte',
-                desc: 'Hoeveel collega\'s en what time? Makkelijk in te vullen.',
+                title: 'Geef groepsgrootte door',
+                desc: 'Hoeveel collega\'s en hoe laat? Makkelijk in te vullen.',
               },
               {
                 step: '3',
                 title: 'Spelen maar!',
-                desc: 'Je bent ter plaatse, warm-up spel, en dan gaat de competitie echt',
+                desc: 'Je bent ter plaatse, korte warm-up, en daarna gaat de competitie pas écht los.',
               },
               {
                 step: '4',
-                title: 'Herinnering',
-                desc: 'Iedereen gaat met verhalen naar huis. Dit gaat je team over spreken.',
+                title: 'Herinneringen',
+                desc: 'Iedereen gaat met verhalen naar huis. Hier gaat je team nog lang over napraten.',
               },
             ].map((item, idx) => (
               <div key={idx} className="bg-white rounded-lg p-8 text-center shadow-sm">
@@ -205,7 +205,7 @@ export default function BedrijfsuitjeEindhoven() {
             energie, echte herinneringen.
           </p>
           <CTAButton
-            href="https://clashrooms.nl/boeken"
+            href="https://www.clashrooms.nl/boeken"
             label="Boek je bedrijfsuitje nu"
             variant="primary"
           />

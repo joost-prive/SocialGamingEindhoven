@@ -12,7 +12,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
-        heading: ['Syne', 'sans-serif'],
+        heading: ['"Bricolage Grotesque"', 'sans-serif'],
       },
     },
   },

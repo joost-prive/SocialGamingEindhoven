@@ -13,34 +13,34 @@ export const metadata: Metadata = {
 export default function GroepsactiviteitenEindhoven() {
   const faqItems = [
     {
-      question: 'Hoe lang duurt een session social gaming?',
+      question: 'Hoe lang duurt een sessie social gaming?',
       answer:
-        'Meestal 1 tot 2 uur, afhankelijk van wat je boekt. Ideaal voor een avond of middag. Snel van je werk, veel plezier, thuis voor het eten, of ga je daarna ergens anders heen.',
+        'Meestal 1 tot 2 uur, afhankelijk van wat je boekt. Ideaal voor een avond of middag. Snel klaar met werk, veel plezier, en daarna thuis voor het eten of door naar de volgende plek.',
     },
     {
-      question: 'Hoeveel kan ik reserveren?',
+      question: 'Hoeveel mensen kan ik reserveren?',
       answer:
-        'Bij ClashRooms kan je groepen van 2 tot 20+ personen aan. Of je nu met 3 vrienden bent of 15 collega\'s — het werkt.',
+        'Bij ClashRooms kunnen groepen van 2 tot 20+ personen terecht. Of je nu met 3 vrienden bent of 15 collega\'s: het werkt.',
     },
     {
       question: 'Wat als er mensen in onze groep niet gamen?',
       answer:
-        'Geen probleem. Social gaming is speciaal ontworpen voor gemengde groepen. Gamers spelen voluit, niet-gamers voelen zich meteen welkom en kunnen gelijk meespelen.',
+        'Geen probleem. Social gaming is speciaal ontworpen voor gemengde groepen. Gamers spelen voluit, niet-gamers voelen zich meteen welkom en kunnen direct meespelen.',
     },
     {
       question: 'Wat zijn de kosten?',
       answer:
-        'Dat hangt af van je groepgrootte en hoelang je speelt. Qua prijs-kwaliteit is social gaming echt concurrerend met bowling, lasergamen, en zeker goedkoper dan escape rooms.',
+        'Dat hangt af van je groepsgrootte en hoelang je speelt. Qua prijs-kwaliteit is social gaming concurrerend met bowling en lasergamen, en zeker goedkoper dan escape rooms.',
     },
     {
-      question: 'Kunnen we drinken/eten erbij?',
+      question: 'Kunnen we drinken en eten erbij?',
       answer:
-        'Meestal kan je dat regelen. Het is slim om dit meteen bij het boeken te checken met ClashRooms — veel kunnen drankjes en snacks verzorgen.',
+        'Meestal kun je dat regelen. Het is slim om dit meteen bij het boeken te checken met ClashRooms. Er zijn drankjes en snacks verkrijgbaar op locatie.',
     },
     {
       question: 'Hoe reserveer ik?',
       answer:
-        'Via clashrooms.nl/boeken kan je je groepgrootte selecteren, een moment kiezen, en je boeken. Heel snel, heel simpel.',
+        'Via clashrooms.nl/boeken kun je je groepsgrootte selecteren, een moment kiezen en boeken. Heel snel, heel simpel.',
     },
   ];
 
@@ -65,9 +65,9 @@ export default function GroepsactiviteitenEindhoven() {
               voelt als "we spelen samen" en niet "we doen iets naast elkaar"?
             </p>
             <p>
-              Dat is waar social gaming in uitblinkt. En in Eindhoven bieden we dat via
-              ClashRooms. Het is niet zomaar nog een activiteit — het is de activiteit die
-              werkelijk voelt als een gezamenlijke ervaring.
+              Daar blinkt social gaming in uit. In Eindhoven bieden we dat via ClashRooms.
+              Het is niet zomaar nog een activiteit, maar dé activiteit die echt voelt als een
+              gezamenlijke ervaring.
             </p>
           </div>
         </div>
@@ -169,7 +169,7 @@ export default function GroepsactiviteitenEindhoven() {
               },
               {
                 title: '🚀 Geen ervaring nodig',
-                desc: 'Of je gamer bent of nooit een controller hebt vastgehouden — je bent er meteen klaar voor.',
+                desc: 'Of je nou gamer bent of nooit een controller hebt vastgehouden: je bent er meteen klaar voor.',
               },
               {
                 title: '⚡ Energiek en leuk',
@@ -177,15 +177,15 @@ export default function GroepsactiviteitenEindhoven() {
               },
               {
                 title: '💰 Goed voor je geld',
-                desc: 'Veel plezier, niet veel kost. Goedkoper dan escape rooms, meer plezier dan bowling.',
+                desc: 'Veel plezier, weinig kosten. Goedkoper dan escape rooms, en meer plezier dan bowling.',
               },
               {
-                title: '🏢 Voor alle groepgroottes',
+                title: '🏢 Voor alle groepsgroottes',
                 desc: '4 vrienden? 20 collega\'s? 10 jarigen op een verjaardagsfeest? Allemaal geen probleem.',
               },
               {
                 title: '⏰ Snel geboekt',
-                desc: 'In één klik ben je geboekt. Meestal nog dezelfde week beschikbaar.',
+                desc: 'In een paar klikken ben je geboekt. Meestal nog dezelfde week beschikbaar.',
               },
             ].map((item, idx) => (
               <div key={idx} className="bg-gray-50 rounded-lg p-8">
@@ -208,9 +208,9 @@ export default function GroepsactiviteitenEindhoven() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="space-y-4 text-gray-700 text-lg leading-relaxed">
               <p>
-                ClashRooms is niet zomaar een gaming cafe. Het is speciaal opgezet voor sociale
-                spelervaring. Professionele setup, schermen die knallen, games die voor groepen
-                gemaakt zijn.
+                ClashRooms is niet zomaar een gamingcafé. Het is speciaal opgezet voor sociale
+                spelbeleving. Professionele setup, schermen die knallen, en games die voor
+                groepen gemaakt zijn.
               </p>
               <p>
                 Wil je meer weten over social gaming en hoe het werkt? Lees onze{' '}
@@ -243,7 +243,7 @@ export default function GroepsactiviteitenEindhoven() {
             Boek nu je moment bij ClashRooms en maak het onvergetelijk voor je groep.
           </p>
           <CTAButton
-            href="https://clashrooms.nl/boeken"
+            href="https://www.clashrooms.nl/boeken"
             label="Boek groepsactiviteit"
             variant="primary"
           />

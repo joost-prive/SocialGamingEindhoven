@@ -21,7 +21,7 @@ export default function Home() {
         title="Social Gaming in Eindhoven"
         subtitle="Beleef samen het meest energieke groepsavontuur. Geen ervaring nodig, alleen samen plezier!"
         ctaLabel="Boek nu bij ClashRooms"
-        ctaHref="https://clashrooms.nl/boeken"
+        ctaHref="https://www.clashrooms.nl/boeken"
       />
 
       {/* What is Social Gaming */}
@@ -35,13 +35,13 @@ export default function Home() {
               <p className="text-gray-700 text-lg mb-4 leading-relaxed">
                 Social gaming is veel meer dan alleen digitaal spelen. Het gaat om het samen
                 beleven van competitieve, leuke en interactieve momenten. Je speelt écht
-                samen — niet zomaar naast elkaar. Het gaat om de adrenaline, de lol, en vooral
+                samen, niet zomaar naast elkaar. Het gaat om de adrenaline, de lol, en vooral
                 om de band die je samen opbouwt.
               </p>
               <p className="text-gray-700 text-lg mb-6 leading-relaxed">
                 Bij ClashRooms in Eindhoven zijn games zo ontworpen dat iedereen kan deelnemen,
                 ongeacht je gaming-ervaring. Van vrienden die samen willen ontspannen tot teams
-                die elkaar echt willen testen — social gaming werkt voor iedereen.
+                die elkaar echt willen testen: social gaming werkt voor iedereen.
               </p>
               <Link
                 href="/wat-is-social-gaming"
@@ -75,13 +75,13 @@ export default function Home() {
                 icon: '🏢',
                 title: 'Bedrijven',
                 description:
-                  'Team building die écht werkt. Veel sterker dan klassieke bedrijfsuitjes — je leert je collega\'s hier echt kennen.',
+                  'Team building die écht werkt. Veel sterker dan klassieke bedrijfsuitjes. Je leert je collega\'s hier echt kennen.',
               },
               {
                 icon: '🎉',
                 title: 'Verjaardagen',
                 description:
-                  'Maak je verjaardagsfeest onvergetelijk. Perfect voor elk leeftijd. Iedereen doet mee, niemand voelt zich buitengesloten.',
+                  'Maak je verjaardagsfeest onvergetelijk. Perfect voor elke leeftijd. Iedereen doet mee, niemand voelt zich buitengesloten.',
               },
             ].map((item, idx) => (
               <div
@@ -115,11 +115,11 @@ export default function Home() {
             {[
               {
                 title: 'Speciaal ontworpen voor je groep',
-                desc: 'Onze games zijn gebouwd voor sociale interactie. Je speelt niet tegen een moeilijke AI — je speelt echt met en tegen elkaar.',
+                desc: 'Onze games zijn gebouwd voor sociale interactie. Je speelt niet tegen een moeilijke AI, je speelt echt met en tegen elkaar.',
               },
               {
                 title: 'Geen ervaring nodig',
-                desc: 'Van gamer tot absolute beginner — iedereen kan meedoen. Geen ingewikkelde regels, gewoon plezier hebben.',
+                desc: 'Van gamer tot absolute beginner: iedereen kan meedoen. Geen ingewikkelde regels, gewoon plezier hebben.',
               },
               {
                 title: 'De beste ervaring in Eindhoven',
@@ -174,7 +174,7 @@ export default function Home() {
           <p className="text-gray-700 text-lg leading-relaxed mb-4">
             Deze website is een initiatief van ClashRooms, de social gaming locatie in
             Eindhoven. We geloven dat social gaming een van de leukste en meest betekenisvolle
-            manieren is om samen iets te beleven — en we willen zoveel mogelijk mensen in
+            manieren is om samen iets te beleven, en we willen zoveel mogelijk mensen in
             Eindhoven laten kennismaken met dit concept.
           </p>
           <p className="text-gray-700 text-lg leading-relaxed mb-6">
@@ -203,7 +203,7 @@ export default function Home() {
             Boek nu je moment bij ClashRooms en beleef samen wat social gaming echt is.
           </p>
           <CTAButton
-            href="https://clashrooms.nl/boeken"
+            href="https://www.clashrooms.nl/boeken"
             label="Boek je plek nu"
             variant="primary"
           />

@@ -4,42 +4,44 @@ export interface Testimonial {
   context: string;
 }
 
+// Echte reviews afkomstig van ClashRooms (Google reviews, 4.9/5 sterren, 400+ recensies).
+// ClashRooms is de social gaming locatie waar deze website naar verwijst.
 export const testimonials: Testimonial[] = [
   {
     quote:
-      'Wat een geweldige ervaring! Mijn vriendengroep had nog nooit zo veel lol met elkaar. De games zijn verslavend en iedereen kon volop meedoen.',
-    name: 'Martijn',
-    context: 'Vrienden groep, 8 personen',
+      'Super leuke middag gehad met een diversiteit aan verschillende spelvormen.',
+    name: 'Maikel van Dijk',
+    context: 'Google review',
   },
   {
     quote:
-      'Voor een bedrijfsuitje was dit veel beter dan wat we normaal doen. Iedereen was energiek en we hebben echt als team samengewerkt. Ik ga dit zeker aanbevelen!',
-    name: 'Lisa',
-    context: 'HR Manager bij techbedrijf',
+      'Enthousiast team! Hele laagdrempelige spellen, onwijs vermaakt!',
+    name: 'Nancy Leo',
+    context: 'Google review',
   },
   {
     quote:
-      'Ik ben geen gamer, maar dit was superleuk! Je hoeft echt geen ervaring te hebben. Alles is heel toegankelijk en je bent meteen in het ritme.',
-    name: 'Sarah',
-    context: 'Vrijgezellenfeest organisator',
+      'Superleuke bedrijfsactiviteit, voor ieder wat wils!',
+    name: 'Marlene Drouen',
+    context: 'Google review',
   },
   {
     quote:
-      'Geweldig voor onze afdeling. We voelden ons echt samen tegen elkaar aan het spelen - niet zomaar naast elkaar. Dit is veel beter dan een gewone bedrijfsuitje.',
-    name: 'Jeroen',
-    context: 'Team Lead, marketing afdeling',
+      'We hebben ons leuk vermaakt. Leuke spelletjes en top begeleiding.',
+    name: 'Twan Boetzkes',
+    context: 'Google review',
   },
   {
     quote:
-      'De kids vonden het helemaal top! Ze waren uren bezig en willen alleen maar teruggaan. Perfect voor een verjaardagsfeest.',
-    name: 'Emma',
-    context: 'Moeder van twee kinderen',
+      'Super leuk teamuitje gehad! Leuke spellen, duidelijke uitleg en een hele leuke gamemaster!',
+    name: 'Vera Holtackers',
+    context: 'Google review',
   },
   {
     quote:
-      'Qua prijs-kwaliteit is dit echt not te verslaan. Veel plezier, makkelijk te boeken, en alles liep heel professioneel af.',
-    name: 'Patrick',
-    context: 'Groepsleider scouting Eindhoven',
+      'Hele leuke avond gehad!',
+    name: 'Fleur',
+    context: 'Google review',
   },
 ];
 

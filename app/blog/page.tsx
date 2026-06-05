@@ -17,35 +17,35 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
-    title: 'Top 10 groepsactiviteiten in Eindhoven (2025)',
+    title: 'Top 10 groepsactiviteiten in Eindhoven (2026)',
     slug: 'top-10-groepsactiviteiten-eindhoven',
     excerpt:
-      'Wat zijn de beste groepsactiviteiten in Eindhoven? Van social gaming tot escape rooms, bowling tot paintball. Hier is onze complete top 10 met voor- en nadelen.',
-    date: '13 mei 2025',
+      'Wat zijn de beste groepsactiviteiten in Eindhoven? Van social gaming tot escape rooms, bowling tot paintball. Hier is onze complete top 10 met voor en nadelen.',
+    date: '15 mei 2026',
     readTime: '8 min',
   },
   {
     title: 'Escape room vs. social gaming: wat is leuker?',
     slug: 'escape-room-vs-social-gaming',
     excerpt:
-      'Beide zijn populair, maar wat is het verschil? En waarom kiezen meer en meer Eindhovenaren voor social gaming? Eerlijke vergelijking hier.',
-    date: '10 mei 2025',
+      'Beide zijn populair, maar wat is het verschil? En waarom kiezen steeds meer Eindhovenaren voor social gaming? Eerlijke vergelijking.',
+    date: '10 mei 2026',
     readTime: '7 min',
   },
   {
     title: 'Origineel bedrijfsuitje in Eindhoven: 5 ideeën die wél werken',
     slug: 'origineel-bedrijfsuitje-eindhoven',
     excerpt:
-      'Klaar met dezelfde saaie bedrijfsuitjes? Hier zijn 5 ideeën voor team building dat écht impact heeft. Social gaming is één van ze!',
-    date: '8 mei 2025',
+      'Klaar met dezelfde saaie bedrijfsuitjes? Hier zijn 5 ideeën voor teambuilding die écht impact hebben. Social gaming is er één van!',
+    date: '8 mei 2026',
     readTime: '6 min',
   },
   {
     title: 'Wat is social gaming? De complete gids',
     slug: 'wat-is-social-gaming-gids',
     excerpt:
-      'Alles wat je moet weten over social gaming. Wat is het, waarom is het trending, wie kan het doen, hoe boeking werkt. Complete gids.',
-    date: '5 mei 2025',
+      'Alles wat je moet weten over social gaming. Wat is het, waarom is het populair, wie kan het doen, en hoe werkt boeken. Complete gids.',
+    date: '5 mei 2026',
     readTime: '10 min',
   },
 ];

@@ -16,7 +16,7 @@ export default function EscapeRoomVsSocialGaming() {
         <section className="section-padding bg-gradient-to-br from-gray-50 to-gray-100">
           <div className="container-max max-w-3xl">
             <div className="flex gap-4 text-sm text-gray-600 mb-4">
-              <span>10 mei 2025</span>
+              <span>10 mei 2026</span>
               <span>•</span>
               <span>7 min leestijd</span>
             </div>
@@ -41,22 +41,22 @@ export default function EscapeRoomVsSocialGaming() {
 
             <h2>Escape rooms: wat zijn het?</h2>
             <p>
-              Je zit in een versloten ruimte en moet via puzzels, raadsels en verborgen aanwijzingen
-              eruit ontsnappen. Meestal heb je 60 minuten. Je werkt samen, je praat, je denkt na.
-              Heel anders dan social gaming.
+              Je zit in een afgesloten ruimte en moet via puzzels, raadsels en verborgen
+              aanwijzingen eruit zien te komen. Meestal heb je 60 minuten. Je werkt samen, je
+              praat, je denkt na. Heel anders dan social gaming.
             </p>
 
             <h2>Social gaming: wat is het?</h2>
             <p>
-              Social gaming is je samen in dezelfde ruimte bevinden, aan controllers, schermen,
-              real-time spellen spelen. Je speelt echt samen, je reageert op elkaar, snel, energiek,
-              fysiek.
+              Bij social gaming bevind je je samen in dezelfde ruimte, achter controllers en
+              schermen, en speel je real-time spellen. Je speelt echt samen, je reageert op
+              elkaar, snel, energiek en fysiek aanwezig.
             </p>
 
             <h2>Escape rooms: voordelen</h2>
             <ul>
               <li>
-                <strong>Echte spanning:</strong> Je voelt echt dat je bezig bent iets te doen
+                <strong>Echte spanning:</strong> Je voelt echt dat je bezig bent met iets
                 (ontsnappen). Niet zomaar een spel.
               </li>
               <li>
@@ -64,7 +64,8 @@ export default function EscapeRoomVsSocialGaming() {
                 breinwerk.
               </li>
               <li>
-                <strong>Immersief:</strong> Je bent echt in een thema, voelt als een adventure.
+                <strong>Meeslepend:</strong> Je bent echt in een thema, het voelt als een
+                avontuur.
               </li>
               <li>
                 <strong>Team bonding:</strong> Je moet echt samenwerken om te ontsnappen.
@@ -74,35 +75,36 @@ export default function EscapeRoomVsSocialGaming() {
             <h2>Escape rooms: nadelen</h2>
             <ul>
               <li>
-                <strong>Duur:</strong> €20-30 per persoon is niet ongewoon. Voor groepen kan dit
-                snel oplopen.
+                <strong>Duur:</strong> €20 tot €30 per persoon is niet ongewoon. Voor groepen kan
+                dit snel oplopen.
               </li>
               <li>
-                <strong>Klein groep:</strong> Escape rooms werken best met 4-6 personen. Meer
-                wordt het te vol.
+                <strong>Kleine groep:</strong> Escape rooms werken het best met 4 tot 6 personen.
+                Meer wordt te vol.
               </li>
               <li>
-                <strong>Frustrerend:</strong> Als je puzzels niet snapt, of je steekt twee uur
-                ergens in vast — kan frustrerend voelen.
+                <strong>Frustrerend:</strong> Als je puzzels niet snapt, of je blijft ergens
+                vasthangen: dat kan frustrerend zijn.
               </li>
               <li>
-                <strong>Veel wachten:</strong> Als je niet slim bent, sta je veel te wachten
-                terwijl anderen denken.
+                <strong>Veel wachten:</strong> Als je niet snel snapt wat de bedoeling is, sta je
+                veel te wachten terwijl anderen denken.
               </li>
               <li>
-                <strong>Niet per se teamwork:</strong> Soms doet één persoon alles, rest staat
-                toe te kijken.
+                <strong>Niet altijd teamwork:</strong> Soms doet één persoon alles en kijkt de
+                rest toe.
               </li>
             </ul>
 
             <h2>Social gaming: voordelen</h2>
             <ul>
               <li>
-                <strong>Echt together-gevoel:</strong> Iedereen speelt echt mee. Niemand staat
-                aan de zijlijn.
+                <strong>Echt samen-gevoel:</strong> Iedereen speelt echt mee. Niemand staat aan
+                de zijlijn.
               </li>
               <li>
-                <strong>Snel:</strong> Je bent meteen in actie. Geen inleidingen, geen wachten.
+                <strong>Snel:</strong> Je bent meteen in actie. Geen lange inleidingen, geen
+                wachten.
               </li>
               <li>
                 <strong>Voor alle groepsgroottes:</strong> 4 mensen? Prima. 15 mensen? Prima.
@@ -125,18 +127,18 @@ export default function EscapeRoomVsSocialGaming() {
             <ul>
               <li>
                 <strong>Vraagt interesse:</strong> Je moet wel zin hebben in spelletjes. Maar
-                heel laag drempelig.
+                heel laagdrempelig.
               </li>
               <li>
-                <strong>Geen "verhaal":</strong> Je bent niet aan het ontsnappen uit een castle,
+                <strong>Geen "verhaal":</strong> Je bent niet aan het ontsnappen uit een kasteel,
                 je speelt gewoon games.
               </li>
             </ul>
 
             <h2>Wat is het verschil?</h2>
             <p>
-              Escape rooms zijn mentaal. Je denkt, je lost puzzels op, je voelt jezelf clever
-              wanneer je iets snapt. Het voelt als een adventure.
+              Escape rooms zijn mentaal. Je denkt, je lost puzzels op, je voelt je slim als je
+              iets snapt. Het voelt als een avontuur.
             </p>
             <p>
               Social gaming is fysiek en energiek. Je bent in actie, je reageert snel, je
@@ -145,13 +147,13 @@ export default function EscapeRoomVsSocialGaming() {
 
             <h2>Voor welke groep is wat beter?</h2>
             <p>
-              <strong>Escape rooms zijn beter voor:</strong> Puzzelfanaten, kleine groepen (4-6),
-              mensen die van denken houden, team building dat "anders" moet voelen.
+              <strong>Escape rooms zijn beter voor:</strong> Puzzelfanaten, kleine groepen (4 tot
+              6), mensen die van denken houden, teambuilding die "anders" moet voelen.
             </p>
             <p>
               <strong>Social gaming is beter voor:</strong> Grote groepen, energieke groepen,
-              bedrijven (teamwork matters), verjaardagen, mensen die iets willen doen (niet te
-              veel denken).
+              bedrijven (waar teamwork telt), verjaardagen, mensen die iets willen doen (niet
+              alleen denken).
             </p>
 
             <h2>De eerlijke waarheid</h2>
@@ -161,25 +163,26 @@ export default function EscapeRoomVsSocialGaming() {
               terwijl we in dezelfde kamer zitten."
             </p>
             <p>
-              Voor teams, groepen vrienden, bedrijfsuitjes: social gaming wint. Je bent echt
-              together, niet naast elkaar bezig.
+              Voor teams, vriendengroepen en bedrijfsuitjes wint social gaming. Je bent echt
+              samen, niet naast elkaar bezig.
             </p>
 
-            <h2>Wat zeggen de nummers?</h2>
+            <h2>Wat zeggen de cijfers?</h2>
             <p>
-              Escape rooms: €20-30/pp, tot 6 mensen, 60 minuten, mentaal.
+              Escape rooms: €20 tot €30 per persoon, tot 6 mensen, 60 minuten, mentaal.
             </p>
             <p>
-              Social gaming: €15-25/pp, tot 20+ mensen, 60-90 minuten, fysiek.
+              Social gaming: €15 tot €25 per persoon, tot 20+ mensen, 60 tot 90 minuten,
+              fysiek.
             </p>
             <p>
-              Social gaming wint op prijs, groepsgrootte, en "met-elkaar-gevoel".
+              Social gaming wint op prijs, groepsgrootte en "met elkaar gevoel".
             </p>
 
             <h2>Klaar om het zelf uit te proberen?</h2>
             <p>
-              De beste manier om te weten wat je prefereert: probeer het zelf! Bij ClashRooms
-              in Eindhoven kan je meteen aan de slag.
+              De beste manier om te weten wat je het leukst vindt: probeer het zelf! Bij
+              ClashRooms in Eindhoven kun je meteen aan de slag.
             </p>
             <p>
               Lees meer over{' '}
@@ -204,7 +207,7 @@ export default function EscapeRoomVsSocialGaming() {
               Social gaming bij ClashRooms. Boek nu en voel het verschil.
             </p>
             <CTAButton
-              href="https://clashrooms.nl/boeken"
+              href="https://www.clashrooms.nl/boeken"
               label="Boek je sessie nu"
               variant="primary"
             />
