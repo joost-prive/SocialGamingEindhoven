@@ -15,10 +15,10 @@ export const comparisonRows: ComparisonRow[] = [
     lasergamen: true,
   },
   {
-    criterion: 'Geen ervaring nodig',
+    criterion: 'Iedereen kan meedoen',
     socialGaming: true,
-    escapeRoom: true,
-    bowling: true,
+    escapeRoom: false,
+    bowling: false,
     lasergamen: false,
   },
   {
@@ -29,11 +29,11 @@ export const comparisonRows: ComparisonRow[] = [
     lasergamen: false,
   },
   {
-    criterion: 'Binnen 1 uur te boeken',
+    criterion: 'Eindelijk weer wat nieuws',
     socialGaming: true,
     escapeRoom: false,
-    bowling: true,
-    lasergamen: true,
+    bowling: false,
+    lasergamen: false,
   },
   {
     criterion: 'Goede prijs-kwaliteit',

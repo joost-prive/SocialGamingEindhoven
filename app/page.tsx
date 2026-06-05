@@ -114,20 +114,20 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             {[
               {
-                title: 'Speciaal ontworpen voor je groep',
-                desc: 'Onze games zijn gebouwd voor sociale interactie. Je speelt niet tegen een moeilijke AI, je speelt echt met en tegen elkaar.',
+                title: 'Spellen voor jullie groep',
+                desc: 'Drie kamers vol uiteenlopende spellen waar je direct in zit. Samen én tegen elkaar, in dezelfde ruimte, onder leiding van een enthousiaste GameMaster.',
               },
               {
                 title: 'Geen ervaring nodig',
-                desc: 'Van gamer tot absolute beginner: iedereen kan meedoen. Geen ingewikkelde regels, gewoon plezier hebben.',
+                desc: 'Of je nou superfanaat bent of geen idee hebt wat je kunt verwachten: iedereen pakt het meteen op. Geen ingewikkelde regels, gewoon meedoen en lol hebben.',
               },
               {
-                title: 'De beste ervaring in Eindhoven',
-                desc: 'Professionele setup, echte sfeer, schermen die knallen. Dit voelt als een echte gaming locatie.',
+                title: 'Hartje Eindhoven',
+                desc: 'Vlakbij Centraal Station, parkeren op loopafstand en restaurants om de hoek. Voor of achteraf zo door naar het terras of een diner.',
               },
               {
-                title: 'Snel geboekt, meteen plezier',
-                desc: 'Beschikbare slots, flexibel, en je bent binnen een uur aan het spelen. Geen gedoe.',
+                title: 'Voor ieder gezelschap',
+                desc: 'Jong of oud, Nederlands of Engels, met of zonder fysieke beperking. Iedereen kan meedoen, en we stemmen de beleving af op jullie groep.',
               },
             ].map((item, idx) => (
               <div key={idx} className="flex gap-4">

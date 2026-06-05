@@ -148,33 +148,33 @@ export default function BedrijfsuitjeEindhoven() {
         </div>
       </section>
 
-      {/* How it works */}
+      {/* Boeken zonder gedoe */}
       <section className="section-padding bg-gray-50">
         <div className="container-max">
-          <h2 className="font-heading text-3xl md:text-4xl font-bold text-black mb-12">
-            Hoe werkt het?
+          <h2 className="font-heading text-3xl md:text-4xl font-bold text-black mb-4">
+            Boeken zonder gedoe
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+          <p className="text-lg text-gray-700 mb-12 max-w-3xl">
+            Een bedrijfsuitje organiseren is normaal een rotklus. Datums afstemmen, offertes
+            vergelijken, mensen achter de broek aanzitten. Bij ClashRooms ben je binnen een paar
+            minuten klaar.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               {
                 step: '1',
-                title: 'Selecteer je datum',
-                desc: 'Bekijk de beschikbare tijdslots op clashrooms.nl/boeken.',
+                title: 'Kies datum en groepsgrootte',
+                desc: 'Op clashrooms.nl/boeken zie je meteen wat er kan. Een paar klikken en het tijdslot staat vast.',
               },
               {
                 step: '2',
-                title: 'Geef groepsgrootte door',
-                desc: 'Hoeveel collega\'s en hoe laat? Makkelijk in te vullen.',
+                title: 'Eten en drinken erbij',
+                desc: 'Vink een drank-arrangement aan, of combineer ClashRooms met een hapje eten in hetzelfde pand of de binnenstad.',
               },
               {
                 step: '3',
-                title: 'Spelen maar!',
-                desc: 'Je bent ter plaatse, korte warm-up, en daarna gaat de competitie pas écht los.',
-              },
-              {
-                step: '4',
-                title: 'Herinneringen',
-                desc: 'Iedereen gaat met verhalen naar huis. Hier gaat je team nog lang over napraten.',
+                title: 'Bevestiging in je inbox',
+                desc: 'Geen offerte-pingpong, geen wekenlange mailwisseling. Direct geregeld, jij kunt door met je werk.',
               },
             ].map((item, idx) => (
               <div key={idx} className="bg-white rounded-lg p-8 text-center shadow-sm">
