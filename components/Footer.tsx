@@ -106,13 +106,13 @@ export default function Footer() {
             <p>&copy; 2026 Social Gaming Eindhoven. Powered by ClashRooms.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a
-                href="/public/sitemap.xml"
+                href="/sitemap.xml"
                 className="hover:text-accent transition-colors"
               >
                 Sitemap
               </a>
               <a
-                href="/public/robots.txt"
+                href="/robots.txt"
                 className="hover:text-accent transition-colors"
               >
                 Robots
